@@ -1,2 +1,2 @@
 # web-scrapper-petrolpump
-To scrape data from petrolpumpdealerchayan.in
+To scrape data from www.petrolpumpdealerchayan.in
